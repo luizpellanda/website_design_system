@@ -13,19 +13,21 @@ header h1, h2 {
     text-align: center;
 }
 
-header h1 {
-    font
-}
-
-main {
+section {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .box {
-    width: 280px;
-    height: 400px;
-    display: inline-block;
-    margin: 40px 75px;
+    margin: 5px 5px;
+    width: 175px;
+    height: 175px;    
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;border-radius: 15px;
 }
+
