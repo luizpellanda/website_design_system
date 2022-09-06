@@ -1,0 +1,31 @@
+* {
+    background-color: whitesmoke;
+    font-family: roboto;
+    max-width: 960px;
+    margin: auto;
+}
+
+header {
+    padding: 40px;
+}
+
+header h1, h2 {
+    text-align: center;
+}
+
+header h1 {
+    font
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    width: 280px;
+    height: 400px;
+    display: inline-block;
+    margin: 40px 75px;
+    text-align: center;
+}
