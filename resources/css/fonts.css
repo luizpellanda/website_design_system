@@ -1,0 +1,38 @@
+.fonts {
+    line-height: 1.5;
+    margin: 15px;
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 32px;
+    font-weight: normal;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.text-italic {
+    font-style: italic;
+}
+
+.fonts-roboto {
+    font-family: "Roboto";
+}
+
+.fonts-mirza {
+    font-family: "Mirza";
+}
+
+.fonts-kanit {
+    font-family: "Kanit";
+}
+
+.fonts-robotoMono {
+    font-family: "Roboto Mono";
+}
+
+.fonts-qwitcherGrypen {
+    font-family: "Qwitcher Grypen";
+}
