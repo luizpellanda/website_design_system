@@ -4,6 +4,11 @@
     margin: auto;
 }
 
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
 header {
     padding: 40px;
     font-family: "Inconsolata";
@@ -57,19 +62,13 @@ section {
     margin-top: 50px;
 }
 
-.fonts {
-    width: 960px;
-    opacity: 0.9;
-    transition: all .2s ease-in-out;    
-}
-
-.fonts:hover {
-    opacity: 1;
-    transform: scale(1.05);
-}
-
 footer {
     margin-top: 75px;
+    font-family: "Inconsolata";
+    line-height: 1.5;
+    width: 980px;
+    text-align: right;
+    margin-bottom: 35px;
 }
 
 
